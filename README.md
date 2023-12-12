@@ -10,7 +10,7 @@ Substitute the values in the distance formula  ![formula](/formula.JPG)
 ### Step 4: print the output using print function
 ### Step 5: output found
 ### PROGRAM:
-  #Program to find the distance between two points.
+~~~  #Program to find the distance between two points.
 #Developed by: DEVA ABISHEK P
 #RegisterNumber:23012976
 import math
@@ -21,9 +21,9 @@ y_2=2
 d=math.sqrt((x_2-x_1)**2+(y_2-y_1)**2)
 print(f"{d:,.2f}")
 
-
+~~~
 ### OUTPUT:
-![output](/DISTANCE-BETWEEN-TWO-POINTS/output.png)
+![output](https://github.com/DEVAABISHEK/DISTANCE-BETWEEN-TWO-POINTS/assets/150319305/84decb8f-9ee1-43c7-9851-7f3fd515ec88)
 
 ### RESULT:
 The Program was successfully executed.
